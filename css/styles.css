@@ -100,41 +100,6 @@ body{
 
 
 
-/* MOBILE RESPONSIVE */
-
-@media(max-width:768px){
-
-    .hamburger{
-        display:block;
-        color:white;
-    }
-
-    .search-box{
-        display:none;
-    }
-
-    .nav-links{
-        position:absolute;
-        top:80px;
-        left:-100%;
-
-        width:100%;
-        background:#8B0000;
-
-        flex-direction:column;
-        text-align:center;
-
-        padding:20px 0;
-
-        transition:0.5s;
-    }
-
-    .nav-links.active{
-        left:0;
-    }
-
-   
-}
 
 
 /* HERO SECTION */
@@ -1267,6 +1232,8 @@ body{
 
     color: rgba(255,255,255,.8);
 }
+
+
 
 /* MOBILE RESPONSIVE */
 
