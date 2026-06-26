@@ -1,0 +1,21 @@
+
+SETS PF PROMPTS
+
+1.	ChatGPT, I am a new software developer, and I want you to help me build a landing page of an online-take-away Nigerian cooked meal restaurant called MamaPutOnline. It sells different types of cooked food. Build this for me using HTML and CSS. Let the IDE be Visual Studio Code. The landing page should have - A logo - The logo should be placed on the top left hand of the landing page. - A menu section of the landing page which should be in dark red with sub-titles like products, services, Customer Service, Contact Us. The landing page should have a search bar. This search bar should sit on top right-hand side of the menu bar. - let the menu bar be captured inside a dark red-colored frame. Let the letterings be white so they are legible. Let the menu bar be fixed and responsive on mobile with hamburger.
+
+2.	Please build a hero section right below the menu section. This section should have the following features - 100% of the breath of the page - 30% of the vertical length of landing page - Partition this section into two. One with Headline: ' Step In, Grab a Plate, Join the Family. ' Subtext: "Bringing the Warmth of a Traditional Nigerian Kitchen to You."' Include a bold CTA button: 'Order Now'." and the other with picture of a steaming delicious cooked Nigerian soup. Let the image have the right aspect ratio and with right pixelization.
+
+3.	Right under the hero section, create a modern, responsive menu page component designed specifically for a traditional Nigerian restaurant. The layout must feature a clean grid for main content on the right and a sticky sidebar panel on the left. Let the panel connect users to the main section/product cards. Each of the content of the side panel should be clickable. When clicked, each should lead to the relevant row in the main section/product card of the landing page 
+- soup - 
+-rice
+- beans, yam, plantain 
+- meat 
+                                  
+
+4.	 Let the left side contain the main Grid Content: - let this side have a robust grid display containing beautifully structured food product cards. This section should have 4 rows, with each row having 4 food cards filled with Nigerian native food relevant to that section - Each food card needs: a defined layout for an image with an absolute-positioned category badge (e.g., "Soups", "Rice Dishes", "Beans"), an explicit bold dish title (e.g., "Egusi Soup & Pounded Yam", "Smoky Party Jollof Rice"), a rich descriptive paragraph detailing the authentic ingredients, the price formatted in Naira (₦), and a distinct "Add to Order" action button. - Implement clear hover transitions on the cards (like smooth shadows or lift effects). 
+
+5.	Below the product section, build me the services section. Please remember it’s an in-page navigation and make it responsive at mobile and desktop
+
+6.	Now let’s build the customer service section right below the services section. Let it have all the details necessary for customer service and be responsive at mobile and desktop
+
+7.	Can we also have “contact us “section
